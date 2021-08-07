@@ -1,0 +1,5 @@
+name: DeathMessages
+version: 1.0
+author: xela
+main: me.xela.deathMessage.Main
+description: a simple plugin that can be costumized so whoever kills or gets killed gets a custom messagge in his chat or gets broadcasted

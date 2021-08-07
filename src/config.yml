@@ -1,0 +1,19 @@
+#####################################
+#                                   #
+#                                   #
+#     Made by xela with love <3     #
+#                                   #
+#                                   #
+#####################################
+#put here what the killer should see when he kill someone
+#<player1> is the killer <player2> is the killed
+messageOnKillKiller: '&a<player1> &7you just killed &4<player2>'
+
+#same thing as on top but this message is shown to the killed
+messageOnKillKilled: '&4<player2> &7you just got killed by &a<player1>'
+
+#announces a kill to the entire server
+announceKill: true
+
+#the message that's announced on a kill
+messageOnKillAnnounce: '&a<player1> &7just got killed by &4<player2>'
